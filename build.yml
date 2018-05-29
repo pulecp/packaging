@@ -1,4 +1,4 @@
-docker-prefix: wkhtmltopdf/packaging:0.12_
+docker-prefix: wkhtmltopdf/packaging:0.13_
 qemu-cmd:      docker run --rm --privileged multiarch/qemu-user-static:register --reset
 
 docker-targets:
